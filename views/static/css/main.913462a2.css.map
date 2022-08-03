@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.913462a2.css","mappings":"AAAA,EAGE,qBAAsB,CADtB,QAAS,CADT,SAGF,CCJA,KACE,YACF,CAEA,KACE,cACF","sources":["index.css","App.css"],"sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}",".App {\n  padding: 1rem;\n}\n\n.tab {\n  padding: 1rem 0;\n}"],"names":[],"sourceRoot":""}
